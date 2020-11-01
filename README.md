@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/RicArch97/crownstone-lib-python-cloud/branch/master/graph/badge.svg?token=F9O56W3R2M)](https://codecov.io/gh/RicArch97/crownstone-lib-python-cloud)
+
 # crownstone-lib-python-cloud
 
 Asynchronous Python library to get data from the cloud, and switch Crownstones.

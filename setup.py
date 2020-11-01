@@ -1,3 +1,4 @@
+"""Setup for Crownstone Cloud library."""
 from setuptools import setup, find_packages
 
 with open("README.md", "r") as fh:
@@ -5,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='crownstone-cloud',
-    version='2.0.0',
+    version='1.4.1',
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/crownstone/crownstone-lib-python-cloud',

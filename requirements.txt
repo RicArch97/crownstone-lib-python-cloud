@@ -1,3 +1,4 @@
 aiohttp>=3.6.2
 asynctest>=0.13.0
+codecov>=2.1.10
 certifi
